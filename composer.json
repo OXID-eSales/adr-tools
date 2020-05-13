@@ -1,0 +1,8 @@
+{
+    "name": "oxid-esales/adr-tools",
+    "description": "Fork of npryce/adr-tools with madr additions",
+    "homepage": "https://www.oxid-esales.com/en/home.html",
+    "license": "GPL-3.0-only",
+    "bin": ["src/adr", "src/_adr_add_link", "src/_adr_add_link_madr", "src/_adr_autocomplete", "src/_adr_commands", "src/adr-config", "src/_adr_dir", "src/_adr_file", "src/adr-generate", "src/_adr_generate_graph", "src/_adr_generate_toc", "src/_adr_help", "src/adr-help", "src/_adr_help_new", "src/adr-init", "src/adr-link", "src/_adr_links", "src/adr-list", "src/adr-new", "src/_adr_remove_status", "src/_adr_remove_status_madr", "src/_adr_status", "src/_adr_title", "src/_adr_type", "src/adr-upgrade-repository", "src/init-madr.md", "src/init.md", "src/template-madr.md", "src/template.md"]
+}
+
